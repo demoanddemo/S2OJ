@@ -1,8 +1,8 @@
 <img src="./web/images/logo_small.png" alt="Logo" width="100" height="100" align="right" />
 
-# S2OJ
+# TUNAOJ
 
-> 基于 Universal Online Judge 的在线测评系统。专为 [石家庄二中](http://www.sjzez.com) 设计。
+> 基于 Universal Online Judge 的在线测评系统。在S2OJ基础上专为 [小镇做题家]() 设计。
 
 ## 特性
 
